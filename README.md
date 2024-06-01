@@ -1,7 +1,15 @@
 # NLP-TextSummarizer
+## End to End Project
+
+- Data Ingestion
+- Data Validation
+- Data Transformation
+- Model Training
+- Model Evaluation
+- Pipeline
+- Deployment
 
 ## Workflows
-
 1. Update config.yaml
 2. Update params.yaml
 3. Update entity
